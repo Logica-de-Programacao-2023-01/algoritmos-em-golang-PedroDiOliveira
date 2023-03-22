@@ -11,4 +11,5 @@ func main() {
 	fmt.Scan(&altura)
 	alt := altura * altura
 	fmt.Println("A seu Indice de massa corporea é:", peso/alt)
+	//IMCOMPLETO
 }
