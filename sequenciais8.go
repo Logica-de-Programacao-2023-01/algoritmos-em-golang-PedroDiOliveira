@@ -7,7 +7,7 @@ func main() {
 	//e o valor da sua diária e calcule o seu salário.
 	var dias int
 	var diaria int
-	fmt.Print("Qantos dias voce trabalha?")
+	fmt.Print("Quantos dias voce trabalha?")
 	fmt.Scan(&dias)
 	fmt.Println("Qual o valor da sua diaria?")
 	fmt.Scan(&diaria)
